@@ -1,5 +1,6 @@
 # murwanda
 
+[![Build Status](https://travis-ci.com/knowbee/murwanda.svg?token=yN9jXnk59suszMqNsJJb&branch=master)](https://travis-ci.com/knowbee/murwanda)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 [![Open Source Love](https://badges.frapsoft.com/os/mit/mit.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 
@@ -43,14 +44,7 @@ console.log(PlaceCodesByCode("12130307")) // 12130307 : village code
 
 
 ```
-## Methods
 
-- [PlaceCodesByProvince()](#PlaceCodesByProvince)
-- [PlaceCodesByDistrict()](#PlaceCodesByDistrict)
-- [PlaceCodesBySector()](#PlaceCodesBySector)
-- [PlaceCodesByCell()](#PlaceCodesByCell)
-- [PlaceCodesByVillage()](#PlaceCodesByVillage)
-- [PlaceCodesByCode()](#PlaceCodesByCode)
 ## Usage
 
 ```js
@@ -58,24 +52,26 @@ const { PlaceCodesByProvince, PlaceCodesByDistrict, PlaceCodesBySector, PlaceCod
 ```
 
 All inputs are case-insensitive.
+## Methods
 
-### PlaceCodesByProvince(province)
+
+#### PlaceCodesByProvince(province)
 
   Returns array of all places(province, districts, sectors, cells, villages) and their respective codes from the given province.
 
-### PlaceCodesByDistrict(province, district)
+#### PlaceCodesByDistrict(province, district)
 
   Returns array of all places(province, district, sectors, cells, villages) and their respective codes from the given district.
 
-### PlaceCodesBySector(province, district, sector)
+#### PlaceCodesBySector(province, district, sector)
 
   Returns array of all places(province, district, sector, cells, villages) and their respective codes.
 
-### PlaceCodesByCell(province, district, sector, cell)
+#### PlaceCodesByCell(province, district, sector, cell)
 
  Returns array of all places(province, district, sector, cell, villages) and their respective codes.
 
-### PlaceCodesByVillage()
+#### PlaceCodesByVillage()
 
 
  Returns array of all places(province, district, sector, cell, village) and their respective codes.
