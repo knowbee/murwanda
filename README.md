@@ -71,7 +71,13 @@ All inputs are case-insensitive.
 
  Returns array of all places(province, district, sector, cell, villages) and their respective codes.
 
-#### PlaceCodesByVillage()
+#### PlaceCodesByVillage(province, district, sector, cell, village)
+
+
+ Returns array of all places(province, district, sector, cell, village) and their respective codes.
+
+
+#### PlaceCodesByCode(code)
 
 
  Returns array of all places(province, district, sector, cell, village) and their respective codes.
