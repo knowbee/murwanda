@@ -1,4 +1,4 @@
-const data = require("./data")
+const data = require("./lib/data")
 
 const upperCase = (name) => {
   if (name && name.includes(" ")) {
