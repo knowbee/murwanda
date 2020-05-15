@@ -750,7 +750,7 @@ exports.rwanda = [
     "Sector_ID": "1102",
     "Distr_ID": "11",
     "Prov_ID": "1",
-    "Village": "Rutagara Ii",
+    "Village": "Rutagara II",
     "Cell": "Nzove",
     "Sector": "Kanyinya",
     "Province": "Kigali Town/Umujyi wa Kigali"
@@ -2995,7 +2995,7 @@ exports.rwanda = [
     "Distr_ID": "11",
     "Prov_ID": "1",
     "Village": "Gasiza",
-    "Cell": "Munanira Ii",
+    "Cell": "Munanira II",
     "Sector": "Nyakabanda",
     "Province": "Kigali Town/Umujyi wa Kigali"
   },
@@ -3007,7 +3007,7 @@ exports.rwanda = [
     "Distr_ID": "11",
     "Prov_ID": "1",
     "Village": "Kamwiza",
-    "Cell": "Munanira Ii",
+    "Cell": "Munanira II",
     "Sector": "Nyakabanda",
     "Province": "Kigali Town/Umujyi wa Kigali"
   },
@@ -3019,7 +3019,7 @@ exports.rwanda = [
     "Distr_ID": "11",
     "Prov_ID": "1",
     "Village": "Kanyange",
-    "Cell": "Munanira Ii",
+    "Cell": "Munanira II",
     "Sector": "Nyakabanda",
     "Province": "Kigali Town/Umujyi wa Kigali"
   },
@@ -3031,7 +3031,7 @@ exports.rwanda = [
     "Distr_ID": "11",
     "Prov_ID": "1",
     "Village": "Karudandi",
-    "Cell": "Munanira Ii",
+    "Cell": "Munanira II",
     "Sector": "Nyakabanda",
     "Province": "Kigali Town/Umujyi wa Kigali"
   },
@@ -3043,7 +3043,7 @@ exports.rwanda = [
     "Distr_ID": "11",
     "Prov_ID": "1",
     "Village": "Kigabiro",
-    "Cell": "Munanira Ii",
+    "Cell": "Munanira II",
     "Sector": "Nyakabanda",
     "Province": "Kigali Town/Umujyi wa Kigali"
   },
@@ -3055,7 +3055,7 @@ exports.rwanda = [
     "Distr_ID": "11",
     "Prov_ID": "1",
     "Village": "Kokobe",
-    "Cell": "Munanira Ii",
+    "Cell": "Munanira II",
     "Sector": "Nyakabanda",
     "Province": "Kigali Town/Umujyi wa Kigali"
   },
@@ -3067,7 +3067,7 @@ exports.rwanda = [
     "Distr_ID": "11",
     "Prov_ID": "1",
     "Village": "Mucyuranyana",
-    "Cell": "Munanira Ii",
+    "Cell": "Munanira II",
     "Sector": "Nyakabanda",
     "Province": "Kigali Town/Umujyi wa Kigali"
   },
@@ -3079,7 +3079,7 @@ exports.rwanda = [
     "Distr_ID": "11",
     "Prov_ID": "1",
     "Village": "Nkundumurimbo",
-    "Cell": "Munanira Ii",
+    "Cell": "Munanira II",
     "Sector": "Nyakabanda",
     "Province": "Kigali Town/Umujyi wa Kigali"
   },
@@ -3187,7 +3187,7 @@ exports.rwanda = [
     "Distr_ID": "11",
     "Prov_ID": "1",
     "Village": "Ibuhoro",
-    "Cell": "Nyakabanda Ii",
+    "Cell": "Nyakabanda II",
     "Sector": "Nyakabanda",
     "Province": "Kigali Town/Umujyi wa Kigali"
   },
@@ -3199,7 +3199,7 @@ exports.rwanda = [
     "Distr_ID": "11",
     "Prov_ID": "1",
     "Village": "Kabeza",
-    "Cell": "Nyakabanda Ii",
+    "Cell": "Nyakabanda II",
     "Sector": "Nyakabanda",
     "Province": "Kigali Town/Umujyi wa Kigali"
   },
@@ -3211,7 +3211,7 @@ exports.rwanda = [
     "Distr_ID": "11",
     "Prov_ID": "1",
     "Village": "Kanyiranganji",
-    "Cell": "Nyakabanda Ii",
+    "Cell": "Nyakabanda II",
     "Sector": "Nyakabanda",
     "Province": "Kigali Town/Umujyi wa Kigali"
   },
@@ -3223,7 +3223,7 @@ exports.rwanda = [
     "Distr_ID": "11",
     "Prov_ID": "1",
     "Village": "Karujongi",
-    "Cell": "Nyakabanda Ii",
+    "Cell": "Nyakabanda II",
     "Sector": "Nyakabanda",
     "Province": "Kigali Town/Umujyi wa Kigali"
   },
@@ -3235,7 +3235,7 @@ exports.rwanda = [
     "Distr_ID": "11",
     "Prov_ID": "1",
     "Village": "Kigarama",
-    "Cell": "Nyakabanda Ii",
+    "Cell": "Nyakabanda II",
     "Sector": "Nyakabanda",
     "Province": "Kigali Town/Umujyi wa Kigali"
   },
@@ -3247,7 +3247,7 @@ exports.rwanda = [
     "Distr_ID": "11",
     "Prov_ID": "1",
     "Village": "Kirwa",
-    "Cell": "Nyakabanda Ii",
+    "Cell": "Nyakabanda II",
     "Sector": "Nyakabanda",
     "Province": "Kigali Town/Umujyi wa Kigali"
   },
@@ -4075,7 +4075,7 @@ exports.rwanda = [
     "Distr_ID": "11",
     "Prov_ID": "1",
     "Village": "Buhoro",
-    "Cell": "Kabuguru Ii",
+    "Cell": "Kabuguru II",
     "Sector": "Rwezamenyo",
     "Province": "Kigali Town/Umujyi wa Kigali"
   },
@@ -4087,7 +4087,7 @@ exports.rwanda = [
     "Distr_ID": "11",
     "Prov_ID": "1",
     "Village": "Gasabo",
-    "Cell": "Kabuguru Ii",
+    "Cell": "Kabuguru II",
     "Sector": "Rwezamenyo",
     "Province": "Kigali Town/Umujyi wa Kigali"
   },
@@ -4099,7 +4099,7 @@ exports.rwanda = [
     "Distr_ID": "11",
     "Prov_ID": "1",
     "Village": "Mutara",
-    "Cell": "Kabuguru Ii",
+    "Cell": "Kabuguru II",
     "Sector": "Rwezamenyo",
     "Province": "Kigali Town/Umujyi wa Kigali"
   },
@@ -4111,7 +4111,7 @@ exports.rwanda = [
     "Distr_ID": "11",
     "Prov_ID": "1",
     "Village": "Ubusabane",
-    "Cell": "Kabuguru Ii",
+    "Cell": "Kabuguru II",
     "Sector": "Rwezamenyo",
     "Province": "Kigali Town/Umujyi wa Kigali"
   },
@@ -4171,7 +4171,7 @@ exports.rwanda = [
     "Distr_ID": "11",
     "Prov_ID": "1",
     "Village": "Amahoro",
-    "Cell": "Rwezamenyo Ii",
+    "Cell": "Rwezamenyo II",
     "Sector": "Rwezamenyo",
     "Province": "Kigali Town/Umujyi wa Kigali"
   },
@@ -4183,7 +4183,7 @@ exports.rwanda = [
     "Distr_ID": "11",
     "Prov_ID": "1",
     "Village": "Umucyo",
-    "Cell": "Rwezamenyo Ii",
+    "Cell": "Rwezamenyo II",
     "Sector": "Rwezamenyo",
     "Province": "Kigali Town/Umujyi wa Kigali"
   },
@@ -4195,7 +4195,7 @@ exports.rwanda = [
     "Distr_ID": "11",
     "Prov_ID": "1",
     "Village": "Urumuri",
-    "Cell": "Rwezamenyo Ii",
+    "Cell": "Rwezamenyo II",
     "Sector": "Rwezamenyo",
     "Province": "Kigali Town/Umujyi wa Kigali"
   },
@@ -7602,7 +7602,7 @@ exports.rwanda = [
     "Sector_ID": "1210",
     "Distr_ID": "12",
     "Prov_ID": "1",
-    "Village": "Kabuhunde Ii",
+    "Village": "Kabuhunde II",
     "Cell": "Gacuriro",
     "Sector": "Kinyinya",
     "Province": "Kigali Town/Umujyi wa Kigali"
@@ -8010,7 +8010,7 @@ exports.rwanda = [
     "Sector_ID": "1305",
     "Distr_ID": "13",
     "Prov_ID": "1",
-    "Village": "Bamporeze Ii",
+    "Village": "Bamporeze II",
     "Cell": "Busanza",
     "Sector": "Kanombe",
     "Province": "Kigali Town/Umujyi wa Kigali"
@@ -9846,7 +9846,7 @@ exports.rwanda = [
     "Sector_ID": "1213",
     "Distr_ID": "12",
     "Prov_ID": "1",
-    "Village": "Kangondo Ii",
+    "Village": "Kangondo II",
     "Cell": "Nyarutarama",
     "Sector": "Remera",
     "Province": "Kigali Town/Umujyi wa Kigali"
@@ -9870,7 +9870,7 @@ exports.rwanda = [
     "Sector_ID": "1213",
     "Distr_ID": "12",
     "Prov_ID": "1",
-    "Village": "Kibiraro Ii",
+    "Village": "Kibiraro II",
     "Cell": "Nyarutarama",
     "Sector": "Remera",
     "Province": "Kigali Town/Umujyi wa Kigali"
@@ -9967,7 +9967,7 @@ exports.rwanda = [
     "Distr_ID": "12",
     "Prov_ID": "1",
     "Village": "Amahoro",
-    "Cell": "Rukiri Ii",
+    "Cell": "Rukiri II",
     "Sector": "Remera",
     "Province": "Kigali Town/Umujyi wa Kigali"
   },
@@ -9979,7 +9979,7 @@ exports.rwanda = [
     "Distr_ID": "12",
     "Prov_ID": "1",
     "Village": "Rebero",
-    "Cell": "Rukiri Ii",
+    "Cell": "Rukiri II",
     "Sector": "Remera",
     "Province": "Kigali Town/Umujyi wa Kigali"
   },
@@ -9991,7 +9991,7 @@ exports.rwanda = [
     "Distr_ID": "12",
     "Prov_ID": "1",
     "Village": "Ruturusu I",
-    "Cell": "Rukiri Ii",
+    "Cell": "Rukiri II",
     "Sector": "Remera",
     "Province": "Kigali Town/Umujyi wa Kigali"
   },
@@ -10002,8 +10002,8 @@ exports.rwanda = [
     "Sector_ID": "1213",
     "Distr_ID": "12",
     "Prov_ID": "1",
-    "Village": "Ruturusu Ii",
-    "Cell": "Rukiri Ii",
+    "Village": "Ruturusu II",
+    "Cell": "Rukiri II",
     "Sector": "Remera",
     "Province": "Kigali Town/Umujyi wa Kigali"
   },
@@ -10015,7 +10015,7 @@ exports.rwanda = [
     "Distr_ID": "12",
     "Prov_ID": "1",
     "Village": "Ubumwe",
-    "Cell": "Rukiri Ii",
+    "Cell": "Rukiri II",
     "Sector": "Remera",
     "Province": "Kigali Town/Umujyi wa Kigali"
   },
@@ -10207,7 +10207,7 @@ exports.rwanda = [
     "Distr_ID": "12",
     "Prov_ID": "1",
     "Village": "Bwiza",
-    "Cell": "Kabuga Ii",
+    "Cell": "Kabuga II",
     "Sector": "Rusororo",
     "Province": "Kigali Town/Umujyi wa Kigali"
   },
@@ -10219,7 +10219,7 @@ exports.rwanda = [
     "Distr_ID": "12",
     "Prov_ID": "1",
     "Village": "Cyanamo",
-    "Cell": "Kabuga Ii",
+    "Cell": "Kabuga II",
     "Sector": "Rusororo",
     "Province": "Kigali Town/Umujyi wa Kigali"
   },
@@ -10231,7 +10231,7 @@ exports.rwanda = [
     "Distr_ID": "12",
     "Prov_ID": "1",
     "Village": "Gatare",
-    "Cell": "Kabuga Ii",
+    "Cell": "Kabuga II",
     "Sector": "Rusororo",
     "Province": "Kigali Town/Umujyi wa Kigali"
   },
@@ -10243,7 +10243,7 @@ exports.rwanda = [
     "Distr_ID": "12",
     "Prov_ID": "1",
     "Village": "Kamashashi",
-    "Cell": "Kabuga Ii",
+    "Cell": "Kabuga II",
     "Sector": "Rusororo",
     "Province": "Kigali Town/Umujyi wa Kigali"
   },
@@ -10255,7 +10255,7 @@ exports.rwanda = [
     "Distr_ID": "12",
     "Prov_ID": "1",
     "Village": "Mataba",
-    "Cell": "Kabuga Ii",
+    "Cell": "Kabuga II",
     "Sector": "Rusororo",
     "Province": "Kigali Town/Umujyi wa Kigali"
   },
@@ -10267,7 +10267,7 @@ exports.rwanda = [
     "Distr_ID": "12",
     "Prov_ID": "1",
     "Village": "Nyagakombe",
-    "Cell": "Kabuga Ii",
+    "Cell": "Kabuga II",
     "Sector": "Rusororo",
     "Province": "Kigali Town/Umujyi wa Kigali"
   },
@@ -10279,7 +10279,7 @@ exports.rwanda = [
     "Distr_ID": "12",
     "Prov_ID": "1",
     "Village": "Ruhangare",
-    "Cell": "Kabuga Ii",
+    "Cell": "Kabuga II",
     "Sector": "Rusororo",
     "Province": "Kigali Town/Umujyi wa Kigali"
   },
@@ -10878,7 +10878,7 @@ exports.rwanda = [
     "Sector_ID": "1301",
     "Distr_ID": "13",
     "Prov_ID": "1",
-    "Village": "Rugando Ii",
+    "Village": "Rugando II",
     "Cell": "Kagasa",
     "Sector": "Gahanga",
     "Province": "Kigali Town/Umujyi wa Kigali"
@@ -11130,7 +11130,7 @@ exports.rwanda = [
     "Sector_ID": "1301",
     "Distr_ID": "13",
     "Prov_ID": "1",
-    "Village": "Nunga Ii",
+    "Village": "Nunga II",
     "Cell": "Nunga",
     "Sector": "Gahanga",
     "Province": "Kigali Town/Umujyi wa Kigali"
@@ -11646,7 +11646,7 @@ exports.rwanda = [
     "Sector_ID": "1303",
     "Distr_ID": "13",
     "Prov_ID": "1",
-    "Village": "Kabuye Ii",
+    "Village": "Kabuye II",
     "Cell": "Kagunga",
     "Sector": "Gikondo",
     "Province": "Kigali Town/Umujyi wa Kigali"
@@ -11670,7 +11670,7 @@ exports.rwanda = [
     "Sector_ID": "1303",
     "Distr_ID": "13",
     "Prov_ID": "1",
-    "Village": "Kagunga Ii",
+    "Village": "Kagunga II",
     "Cell": "Kagunga",
     "Sector": "Gikondo",
     "Province": "Kigali Town/Umujyi wa Kigali"
@@ -11706,7 +11706,7 @@ exports.rwanda = [
     "Sector_ID": "1303",
     "Distr_ID": "13",
     "Prov_ID": "1",
-    "Village": "Kanserege Ii",
+    "Village": "Kanserege II",
     "Cell": "Kanserege",
     "Sector": "Gikondo",
     "Province": "Kigali Town/Umujyi wa Kigali"
@@ -11718,7 +11718,7 @@ exports.rwanda = [
     "Sector_ID": "1303",
     "Distr_ID": "13",
     "Prov_ID": "1",
-    "Village": "Kanserege Iii",
+    "Village": "Kanserege IIi",
     "Cell": "Kanserege",
     "Sector": "Gikondo",
     "Province": "Kigali Town/Umujyi wa Kigali"
@@ -11742,7 +11742,7 @@ exports.rwanda = [
     "Sector_ID": "1303",
     "Distr_ID": "13",
     "Prov_ID": "1",
-    "Village": "Marembo Ii",
+    "Village": "Marembo II",
     "Cell": "Kanserege",
     "Sector": "Gikondo",
     "Province": "Kigali Town/Umujyi wa Kigali"
@@ -11754,7 +11754,7 @@ exports.rwanda = [
     "Sector_ID": "1303",
     "Distr_ID": "13",
     "Prov_ID": "1",
-    "Village": "Marembo Iii",
+    "Village": "Marembo IIi",
     "Cell": "Kanserege",
     "Sector": "Gikondo",
     "Province": "Kigali Town/Umujyi wa Kigali"
@@ -11778,7 +11778,7 @@ exports.rwanda = [
     "Sector_ID": "1303",
     "Distr_ID": "13",
     "Prov_ID": "1",
-    "Village": "Kigugu Ii",
+    "Village": "Kigugu II",
     "Cell": "Kinunga",
     "Sector": "Gikondo",
     "Province": "Kigali Town/Umujyi wa Kigali"
@@ -11790,7 +11790,7 @@ exports.rwanda = [
     "Sector_ID": "1303",
     "Distr_ID": "13",
     "Prov_ID": "1",
-    "Village": "Kigugu Iii",
+    "Village": "Kigugu IIi",
     "Cell": "Kinunga",
     "Sector": "Gikondo",
     "Province": "Kigali Town/Umujyi wa Kigali"
@@ -11826,7 +11826,7 @@ exports.rwanda = [
     "Sector_ID": "1303",
     "Distr_ID": "13",
     "Prov_ID": "1",
-    "Village": "Ruganwa Ii",
+    "Village": "Ruganwa II",
     "Cell": "Kinunga",
     "Sector": "Gikondo",
     "Province": "Kigali Town/Umujyi wa Kigali"
@@ -11838,7 +11838,7 @@ exports.rwanda = [
     "Sector_ID": "1303",
     "Distr_ID": "13",
     "Prov_ID": "1",
-    "Village": "Ruganwa Iii",
+    "Village": "Ruganwa IIi",
     "Cell": "Kinunga",
     "Sector": "Gikondo",
     "Province": "Kigali Town/Umujyi wa Kigali"
@@ -12102,7 +12102,7 @@ exports.rwanda = [
     "Sector_ID": "1305",
     "Distr_ID": "13",
     "Prov_ID": "1",
-    "Village": "Giporoso Ii",
+    "Village": "Giporoso II",
     "Cell": "Kabeza",
     "Sector": "Kanombe",
     "Province": "Kigali Town/Umujyi wa Kigali"
@@ -22686,7 +22686,7 @@ exports.rwanda = [
     "Sector_ID": "2207",
     "Distr_ID": "22",
     "Prov_ID": "2",
-    "Village": "Kanto Ii",
+    "Village": "Kanto II",
     "Cell": "Saga",
     "Sector": "Muganza",
     "Province": "South/Amajyepfo"
@@ -22746,7 +22746,7 @@ exports.rwanda = [
     "Sector_ID": "2207",
     "Distr_ID": "22",
     "Prov_ID": "2",
-    "Village": "Nyamiheto  Ii",
+    "Village": "Nyamiheto  II",
     "Cell": "Saga",
     "Sector": "Muganza",
     "Province": "South/Amajyepfo"
@@ -24570,7 +24570,7 @@ exports.rwanda = [
     "Sector_ID": "2211",
     "Distr_ID": "22",
     "Prov_ID": "2",
-    "Village": "Nkinda Ii",
+    "Village": "Nkinda II",
     "Cell": "Mukande",
     "Sector": "Ndora",
     "Province": "South/Amajyepfo"
@@ -24654,7 +24654,7 @@ exports.rwanda = [
     "Sector_ID": "2212",
     "Distr_ID": "22",
     "Prov_ID": "2",
-    "Village": "Impinga Ii",
+    "Village": "Impinga II",
     "Cell": "Higiro",
     "Sector": "Nyanza",
     "Province": "South/Amajyepfo"
@@ -39834,7 +39834,7 @@ exports.rwanda = [
     "Sector_ID": "2511",
     "Distr_ID": "25",
     "Prov_ID": "2",
-    "Village": "Kirenzi Ii",
+    "Village": "Kirenzi II",
     "Cell": "Gitwa",
     "Sector": "Mugano",
     "Province": "South/Amajyepfo"
@@ -39990,7 +39990,7 @@ exports.rwanda = [
     "Sector_ID": "2511",
     "Distr_ID": "25",
     "Prov_ID": "2",
-    "Village": "Rugarama Ii",
+    "Village": "Rugarama II",
     "Cell": "Sovu",
     "Sector": "Mugano",
     "Province": "South/Amajyepfo"
@@ -46962,7 +46962,7 @@ exports.rwanda = [
     "Sector_ID": "2609",
     "Distr_ID": "26",
     "Prov_ID": "2",
-    "Village": "Muhororo Ii",
+    "Village": "Muhororo II",
     "Cell": "Buhoro",
     "Sector": "Ruhango",
     "Province": "South/Amajyepfo"
@@ -47826,7 +47826,7 @@ exports.rwanda = [
     "Sector_ID": "2609",
     "Distr_ID": "26",
     "Prov_ID": "2",
-    "Village": "Butare Ii",
+    "Village": "Butare II",
     "Cell": "Nyamagana",
     "Sector": "Ruhango",
     "Province": "South/Amajyepfo"
@@ -47958,7 +47958,7 @@ exports.rwanda = [
     "Sector_ID": "2609",
     "Distr_ID": "26",
     "Prov_ID": "2",
-    "Village": "Mujyejuru Ii",
+    "Village": "Mujyejuru II",
     "Cell": "Nyamagana",
     "Sector": "Ruhango",
     "Province": "South/Amajyepfo"
@@ -48066,7 +48066,7 @@ exports.rwanda = [
     "Sector_ID": "2609",
     "Distr_ID": "26",
     "Prov_ID": "2",
-    "Village": "Nyarusange Ii",
+    "Village": "Nyarusange II",
     "Cell": "Nyamagana",
     "Sector": "Ruhango",
     "Province": "South/Amajyepfo"
@@ -48330,7 +48330,7 @@ exports.rwanda = [
     "Sector_ID": "2609",
     "Distr_ID": "26",
     "Prov_ID": "2",
-    "Village": "Nyamugari Ii",
+    "Village": "Nyamugari II",
     "Cell": "Tambwe",
     "Sector": "Ruhango",
     "Province": "South/Amajyepfo"
@@ -48366,7 +48366,7 @@ exports.rwanda = [
     "Sector_ID": "2609",
     "Distr_ID": "26",
     "Prov_ID": "2",
-    "Village": "Ruduha Ii",
+    "Village": "Ruduha II",
     "Cell": "Tambwe",
     "Sector": "Ruhango",
     "Province": "South/Amajyepfo"
@@ -50910,7 +50910,7 @@ exports.rwanda = [
     "Sector_ID": "2708",
     "Distr_ID": "27",
     "Prov_ID": "2",
-    "Village": "Nyarucyamu Ii",
+    "Village": "Nyarucyamu II",
     "Cell": "Gahogo",
     "Sector": "Nyamabuye",
     "Province": "South/Amajyepfo"
@@ -50922,7 +50922,7 @@ exports.rwanda = [
     "Sector_ID": "2708",
     "Distr_ID": "27",
     "Prov_ID": "2",
-    "Village": "Nyarucyamu Iii",
+    "Village": "Nyarucyamu IIi",
     "Cell": "Gahogo",
     "Sector": "Nyamabuye",
     "Province": "South/Amajyepfo"
@@ -73926,7 +73926,7 @@ exports.rwanda = [
     "Sector_ID": "3311",
     "Distr_ID": "33",
     "Prov_ID": "3",
-    "Village": "Kabere Ii",
+    "Village": "Kabere II",
     "Cell": "Murambi",
     "Sector": "Rubavu",
     "Province": "West/Iburengerazuba"
@@ -74346,7 +74346,7 @@ exports.rwanda = [
     "Sector_ID": "3312",
     "Distr_ID": "33",
     "Prov_ID": "3",
-    "Village": "Gatebe Ii",
+    "Village": "Gatebe II",
     "Cell": "Muhira",
     "Sector": "Rugerero",
     "Province": "West/Iburengerazuba"
@@ -74370,7 +74370,7 @@ exports.rwanda = [
     "Sector_ID": "3312",
     "Distr_ID": "33",
     "Prov_ID": "3",
-    "Village": "Gitebe Ii",
+    "Village": "Gitebe II",
     "Cell": "Muhira",
     "Sector": "Rugerero",
     "Province": "West/Iburengerazuba"
@@ -79854,7 +79854,7 @@ exports.rwanda = [
     "Sector_ID": "3411",
     "Distr_ID": "34",
     "Prov_ID": "3",
-    "Village": "Kamenyo Ii",
+    "Village": "Kamenyo II",
     "Cell": "Rwaza",
     "Sector": "Rurembo",
     "Province": "West/Iburengerazuba"
@@ -79938,7 +79938,7 @@ exports.rwanda = [
     "Sector_ID": "3411",
     "Distr_ID": "34",
     "Prov_ID": "3",
-    "Village": "Rubona Ii",
+    "Village": "Rubona II",
     "Cell": "Rwaza",
     "Sector": "Rurembo",
     "Province": "West/Iburengerazuba"
@@ -88314,7 +88314,7 @@ exports.rwanda = [
     "Sector_ID": "3606",
     "Distr_ID": "36",
     "Prov_ID": "3",
-    "Village": "Rubenga Ii",
+    "Village": "Rubenga II",
     "Cell": "Kagara",
     "Sector": "Gihundwe",
     "Province": "West/Iburengerazuba"
@@ -93426,7 +93426,7 @@ exports.rwanda = [
     "Sector_ID": "3702",
     "Distr_ID": "37",
     "Prov_ID": "3",
-    "Village": "Ruhinga Ii",
+    "Village": "Ruhinga II",
     "Cell": "Kagatamu",
     "Sector": "Bushenge",
     "Province": "West/Iburengerazuba"
@@ -100398,7 +100398,7 @@ exports.rwanda = [
     "Sector_ID": "4101",
     "Distr_ID": "41",
     "Prov_ID": "4",
-    "Village": "Mugenda Ii",
+    "Village": "Mugenda II",
     "Cell": "Gitare",
     "Sector": "BASE",
     "Province": "North/Amajyaruguru"
@@ -115434,7 +115434,7 @@ exports.rwanda = [
     "Sector_ID": "4307",
     "Distr_ID": "43",
     "Prov_ID": "4",
-    "Village": "Butorwa Ii",
+    "Village": "Butorwa II",
     "Cell": "Nyonirima",
     "Sector": "Kinigi",
     "Province": "North/Amajyaruguru"
@@ -122550,7 +122550,7 @@ exports.rwanda = [
     "Sector_ID": "4410",
     "Distr_ID": "44",
     "Prov_ID": "4",
-    "Village": "Nyabizi Ii",
+    "Village": "Nyabizi II",
     "Cell": "Rutovu",
     "Sector": "Kinyababa",
     "Province": "North/Amajyaruguru"
@@ -122562,7 +122562,7 @@ exports.rwanda = [
     "Sector_ID": "4410",
     "Distr_ID": "44",
     "Prov_ID": "4",
-    "Village": "Nyabizi Iii",
+    "Village": "Nyabizi IIi",
     "Cell": "Rutovu",
     "Sector": "Kinyababa",
     "Province": "North/Amajyaruguru"
@@ -124626,7 +124626,7 @@ exports.rwanda = [
     "Sector_ID": "4416",
     "Distr_ID": "44",
     "Prov_ID": "4",
-    "Village": "Bisayu Ii",
+    "Village": "Bisayu II",
     "Cell": "Ruhanga",
     "Sector": "Rusarabuye",
     "Province": "North/Amajyaruguru"
@@ -124734,7 +124734,7 @@ exports.rwanda = [
     "Sector_ID": "4416",
     "Distr_ID": "44",
     "Prov_ID": "4",
-    "Village": "Ruhurura Ii",
+    "Village": "Ruhurura II",
     "Cell": "Ruhanga",
     "Sector": "Rusarabuye",
     "Province": "North/Amajyaruguru"
@@ -125874,7 +125874,7 @@ exports.rwanda = [
     "Sector_ID": "4503",
     "Distr_ID": "45",
     "Prov_ID": "4",
-    "Village": "Kinihira Ii",
+    "Village": "Kinihira II",
     "Cell": "Gisuna",
     "Sector": "Byumba",
     "Province": "North/Amajyaruguru"
@@ -136830,7 +136830,7 @@ exports.rwanda = [
     "Sector_ID": "5111",
     "Distr_ID": "51",
     "Prov_ID": "5",
-    "Village": "Munini Ii",
+    "Village": "Munini II",
     "Cell": "Mwulire",
     "Sector": "Mwulire",
     "Province": "East/Iburasirazuba"
@@ -137802,7 +137802,7 @@ exports.rwanda = [
     "Sector_ID": "5114",
     "Distr_ID": "51",
     "Prov_ID": "5",
-    "Village": "Kabayange Ii",
+    "Village": "Kabayange II",
     "Cell": "Byinza",
     "Sector": "Rubona",
     "Province": "East/Iburasirazuba"
@@ -139014,7 +139014,7 @@ exports.rwanda = [
     "Sector_ID": "5202",
     "Distr_ID": "52",
     "Prov_ID": "5",
-    "Village": "Gikundamvura Ii",
+    "Village": "Gikundamvura II",
     "Cell": "Gikundamvura",
     "Sector": "KARAMA",
     "Province": "East/Iburasirazuba"
@@ -139602,7 +139602,7 @@ exports.rwanda = [
     "Sector_ID": "5203",
     "Distr_ID": "52",
     "Prov_ID": "5",
-    "Village": "Musenyi Ii",
+    "Village": "Musenyi II",
     "Cell": "Musenyi",
     "Sector": "KARANGAZI",
     "Province": "East/Iburasirazuba"
@@ -139734,7 +139734,7 @@ exports.rwanda = [
     "Sector_ID": "5203",
     "Distr_ID": "52",
     "Prov_ID": "5",
-    "Village": "Kayange Ii",
+    "Village": "Kayange II",
     "Cell": "Nyamirama",
     "Sector": "KARANGAZI",
     "Province": "East/Iburasirazuba"
@@ -139758,7 +139758,7 @@ exports.rwanda = [
     "Sector_ID": "5203",
     "Distr_ID": "52",
     "Prov_ID": "5",
-    "Village": "Nkoma Ii",
+    "Village": "Nkoma II",
     "Cell": "Nyamirama",
     "Sector": "KARANGAZI",
     "Province": "East/Iburasirazuba"
@@ -139782,7 +139782,7 @@ exports.rwanda = [
     "Sector_ID": "5203",
     "Distr_ID": "52",
     "Prov_ID": "5",
-    "Village": "Nyamirama Ii",
+    "Village": "Nyamirama II",
     "Cell": "Nyamirama",
     "Sector": "KARANGAZI",
     "Province": "East/Iburasirazuba"
@@ -140082,7 +140082,7 @@ exports.rwanda = [
     "Sector_ID": "5204",
     "Distr_ID": "52",
     "Prov_ID": "5",
-    "Village": "Kaduha Ii",
+    "Village": "Kaduha II",
     "Cell": "Kaduha",
     "Sector": "KATABAGEMU",
     "Province": "East/Iburasirazuba"
@@ -140370,7 +140370,7 @@ exports.rwanda = [
     "Sector_ID": "5204",
     "Distr_ID": "52",
     "Prov_ID": "5",
-    "Village": "Nyakigando Ii",
+    "Village": "Nyakigando II",
     "Cell": "Nyakigando",
     "Sector": "KATABAGEMU",
     "Province": "East/Iburasirazuba"
@@ -141402,7 +141402,7 @@ exports.rwanda = [
     "Sector_ID": "5206",
     "Distr_ID": "52",
     "Prov_ID": "5",
-    "Village": "Byimana Ii",
+    "Village": "Byimana II",
     "Cell": "Byimana",
     "Sector": "MATIMBA",
     "Province": "East/Iburasirazuba"
@@ -141414,7 +141414,7 @@ exports.rwanda = [
     "Sector_ID": "5206",
     "Distr_ID": "52",
     "Prov_ID": "5",
-    "Village": "Byimana Iii",
+    "Village": "Byimana IIi",
     "Cell": "Byimana",
     "Sector": "MATIMBA",
     "Province": "East/Iburasirazuba"
@@ -141438,7 +141438,7 @@ exports.rwanda = [
     "Sector_ID": "5206",
     "Distr_ID": "52",
     "Prov_ID": "5",
-    "Village": "Kabuga Ii",
+    "Village": "Kabuga II",
     "Cell": "Byimana",
     "Sector": "MATIMBA",
     "Province": "East/Iburasirazuba"
@@ -141666,7 +141666,7 @@ exports.rwanda = [
     "Sector_ID": "5206",
     "Distr_ID": "52",
     "Prov_ID": "5",
-    "Village": "Umudugudu Wa Ii",
+    "Village": "Umudugudu Wa II",
     "Cell": "Matimba",
     "Sector": "MATIMBA",
     "Province": "East/Iburasirazuba"
@@ -141678,7 +141678,7 @@ exports.rwanda = [
     "Sector_ID": "5206",
     "Distr_ID": "52",
     "Prov_ID": "5",
-    "Village": "Umudugudu Wa Iii",
+    "Village": "Umudugudu Wa IIi",
     "Cell": "Matimba",
     "Sector": "MATIMBA",
     "Province": "East/Iburasirazuba"
@@ -141726,7 +141726,7 @@ exports.rwanda = [
     "Sector_ID": "5206",
     "Distr_ID": "52",
     "Prov_ID": "5",
-    "Village": "Umudugudu Wa Vii",
+    "Village": "Umudugudu Wa VII",
     "Cell": "Matimba",
     "Sector": "MATIMBA",
     "Province": "East/Iburasirazuba"
@@ -141750,7 +141750,7 @@ exports.rwanda = [
     "Sector_ID": "5206",
     "Distr_ID": "52",
     "Prov_ID": "5",
-    "Village": "Nyabwishongwezi Ii",
+    "Village": "Nyabwishongwezi II",
     "Cell": "Nyabwishongwezi",
     "Sector": "MATIMBA",
     "Province": "East/Iburasirazuba"
@@ -141762,7 +141762,7 @@ exports.rwanda = [
     "Sector_ID": "5206",
     "Distr_ID": "52",
     "Prov_ID": "5",
-    "Village": "Nyabwishongwezi Iii",
+    "Village": "Nyabwishongwezi IIi",
     "Cell": "Nyabwishongwezi",
     "Sector": "MATIMBA",
     "Province": "East/Iburasirazuba"
@@ -141786,7 +141786,7 @@ exports.rwanda = [
     "Sector_ID": "5206",
     "Distr_ID": "52",
     "Prov_ID": "5",
-    "Village": "Kagezi Ii",
+    "Village": "Kagezi II",
     "Cell": "Rwentanga",
     "Sector": "MATIMBA",
     "Province": "East/Iburasirazuba"
@@ -141810,7 +141810,7 @@ exports.rwanda = [
     "Sector_ID": "5206",
     "Distr_ID": "52",
     "Prov_ID": "5",
-    "Village": "Mitayayo Ii",
+    "Village": "Mitayayo II",
     "Cell": "Rwentanga",
     "Sector": "MATIMBA",
     "Province": "East/Iburasirazuba"
@@ -142350,7 +142350,7 @@ exports.rwanda = [
     "Sector_ID": "5208",
     "Distr_ID": "52",
     "Prov_ID": "5",
-    "Village": "Gatete Ii",
+    "Village": "Gatete II",
     "Cell": "Gatete",
     "Sector": "MUKAMA",
     "Province": "East/Iburasirazuba"
@@ -142482,7 +142482,7 @@ exports.rwanda = [
     "Sector_ID": "5208",
     "Distr_ID": "52",
     "Prov_ID": "5",
-    "Village": "Kabongoya Ii",
+    "Village": "Kabongoya II",
     "Cell": "Gihengeri",
     "Sector": "MUKAMA",
     "Province": "East/Iburasirazuba"
@@ -143095,7 +143095,7 @@ exports.rwanda = [
     "Distr_ID": "52",
     "Prov_ID": "5",
     "Village": "Kibitaka",
-    "Cell": "Rugarama Ii",
+    "Cell": "Rugarama II",
     "Sector": "MUSHERI",
     "Province": "East/Iburasirazuba"
   },
@@ -143107,7 +143107,7 @@ exports.rwanda = [
     "Distr_ID": "52",
     "Prov_ID": "5",
     "Village": "Rebero",
-    "Cell": "Rugarama Ii",
+    "Cell": "Rugarama II",
     "Sector": "MUSHERI",
     "Province": "East/Iburasirazuba"
   },
@@ -143119,7 +143119,7 @@ exports.rwanda = [
     "Distr_ID": "52",
     "Prov_ID": "5",
     "Village": "Rwenyana",
-    "Cell": "Rugarama Ii",
+    "Cell": "Rugarama II",
     "Sector": "MUSHERI",
     "Province": "East/Iburasirazuba"
   },
@@ -143131,7 +143131,7 @@ exports.rwanda = [
     "Distr_ID": "52",
     "Prov_ID": "5",
     "Village": "Umunini",
-    "Cell": "Rugarama Ii",
+    "Cell": "Rugarama II",
     "Sector": "MUSHERI",
     "Province": "East/Iburasirazuba"
   },
@@ -143238,7 +143238,7 @@ exports.rwanda = [
     "Sector_ID": "5210",
     "Distr_ID": "52",
     "Prov_ID": "5",
-    "Village": "Ruhuha Ii",
+    "Village": "Ruhuha II",
     "Cell": "Bushoga",
     "Sector": "NYAGATARE",
     "Province": "East/Iburasirazuba"
@@ -143346,7 +143346,7 @@ exports.rwanda = [
     "Sector_ID": "5210",
     "Distr_ID": "52",
     "Prov_ID": "5",
-    "Village": "Kiboga Ii",
+    "Village": "Kiboga II",
     "Cell": "Gakirage",
     "Sector": "NYAGATARE",
     "Province": "East/Iburasirazuba"
@@ -143478,7 +143478,7 @@ exports.rwanda = [
     "Sector_ID": "5210",
     "Distr_ID": "52",
     "Prov_ID": "5",
-    "Village": "Mirama Ii",
+    "Village": "Mirama II",
     "Cell": "Nyagatare",
     "Sector": "NYAGATARE",
     "Province": "East/Iburasirazuba"
@@ -143502,7 +143502,7 @@ exports.rwanda = [
     "Sector_ID": "5210",
     "Distr_ID": "52",
     "Prov_ID": "5",
-    "Village": "Nyagatare Ii",
+    "Village": "Nyagatare II",
     "Cell": "Nyagatare",
     "Sector": "NYAGATARE",
     "Province": "East/Iburasirazuba"
@@ -143514,7 +143514,7 @@ exports.rwanda = [
     "Sector_ID": "5210",
     "Distr_ID": "52",
     "Prov_ID": "5",
-    "Village": "Nyagatare Iii",
+    "Village": "Nyagatare IIi",
     "Cell": "Nyagatare",
     "Sector": "NYAGATARE",
     "Province": "East/Iburasirazuba"
@@ -143911,7 +143911,7 @@ exports.rwanda = [
     "Distr_ID": "52",
     "Prov_ID": "5",
     "Village": "Amahoro",
-    "Cell": "Rukomo Ii",
+    "Cell": "Rukomo II",
     "Sector": "RUKOMO",
     "Province": "East/Iburasirazuba"
   },
@@ -143923,7 +143923,7 @@ exports.rwanda = [
     "Distr_ID": "52",
     "Prov_ID": "5",
     "Village": "Berwa",
-    "Cell": "Rukomo Ii",
+    "Cell": "Rukomo II",
     "Sector": "RUKOMO",
     "Province": "East/Iburasirazuba"
   },
@@ -143935,7 +143935,7 @@ exports.rwanda = [
     "Distr_ID": "52",
     "Prov_ID": "5",
     "Village": "Isangano",
-    "Cell": "Rukomo Ii",
+    "Cell": "Rukomo II",
     "Sector": "RUKOMO",
     "Province": "East/Iburasirazuba"
   },
@@ -143947,7 +143947,7 @@ exports.rwanda = [
     "Distr_ID": "52",
     "Prov_ID": "5",
     "Village": "Kabeza",
-    "Cell": "Rukomo Ii",
+    "Cell": "Rukomo II",
     "Sector": "RUKOMO",
     "Province": "East/Iburasirazuba"
   },
@@ -143959,7 +143959,7 @@ exports.rwanda = [
     "Distr_ID": "52",
     "Prov_ID": "5",
     "Village": "Mwurirwa",
-    "Cell": "Rukomo Ii",
+    "Cell": "Rukomo II",
     "Sector": "RUKOMO",
     "Province": "East/Iburasirazuba"
   },
@@ -143971,7 +143971,7 @@ exports.rwanda = [
     "Distr_ID": "52",
     "Prov_ID": "5",
     "Village": "Nyange",
-    "Cell": "Rukomo Ii",
+    "Cell": "Rukomo II",
     "Sector": "RUKOMO",
     "Province": "East/Iburasirazuba"
   },
@@ -143983,7 +143983,7 @@ exports.rwanda = [
     "Distr_ID": "52",
     "Prov_ID": "5",
     "Village": "Nyarubuye",
-    "Cell": "Rukomo Ii",
+    "Cell": "Rukomo II",
     "Sector": "RUKOMO",
     "Province": "East/Iburasirazuba"
   },
@@ -143995,7 +143995,7 @@ exports.rwanda = [
     "Distr_ID": "52",
     "Prov_ID": "5",
     "Village": "Nyarurama",
-    "Cell": "Rukomo Ii",
+    "Cell": "Rukomo II",
     "Sector": "RUKOMO",
     "Province": "East/Iburasirazuba"
   },
@@ -144007,7 +144007,7 @@ exports.rwanda = [
     "Distr_ID": "52",
     "Prov_ID": "5",
     "Village": "Rebero",
-    "Cell": "Rukomo Ii",
+    "Cell": "Rukomo II",
     "Sector": "RUKOMO",
     "Province": "East/Iburasirazuba"
   },
@@ -144019,7 +144019,7 @@ exports.rwanda = [
     "Distr_ID": "52",
     "Prov_ID": "5",
     "Village": "Rugabano",
-    "Cell": "Rukomo Ii",
+    "Cell": "Rukomo II",
     "Sector": "RUKOMO",
     "Province": "East/Iburasirazuba"
   },
@@ -144162,7 +144162,7 @@ exports.rwanda = [
     "Sector_ID": "5212",
     "Distr_ID": "52",
     "Prov_ID": "5",
-    "Village": "Cyenjonjo Ii",
+    "Village": "Cyenjonjo II",
     "Cell": "Cyenjonjo",
     "Sector": "RWEMPASHA",
     "Province": "East/Iburasirazuba"
@@ -144510,7 +144510,7 @@ exports.rwanda = [
     "Sector_ID": "5213",
     "Distr_ID": "52",
     "Prov_ID": "5",
-    "Village": "Gacundezi Ii",
+    "Village": "Gacundezi II",
     "Cell": "Gacundezi",
     "Sector": "RWIMIYAGA",
     "Province": "East/Iburasirazuba"
@@ -144534,7 +144534,7 @@ exports.rwanda = [
     "Sector_ID": "5213",
     "Distr_ID": "52",
     "Prov_ID": "5",
-    "Village": "Rukundo Ii",
+    "Village": "Rukundo II",
     "Cell": "Gacundezi",
     "Sector": "RWIMIYAGA",
     "Province": "East/Iburasirazuba"
@@ -144546,7 +144546,7 @@ exports.rwanda = [
     "Sector_ID": "5213",
     "Distr_ID": "52",
     "Prov_ID": "5",
-    "Village": "Rukundo Iii",
+    "Village": "Rukundo IIi",
     "Cell": "Gacundezi",
     "Sector": "RWIMIYAGA",
     "Province": "East/Iburasirazuba"
@@ -144630,7 +144630,7 @@ exports.rwanda = [
     "Sector_ID": "5213",
     "Distr_ID": "52",
     "Prov_ID": "5",
-    "Village": "Rukiri Ii",
+    "Village": "Rukiri II",
     "Cell": "Kabeza",
     "Sector": "RWIMIYAGA",
     "Province": "East/Iburasirazuba"
@@ -144654,7 +144654,7 @@ exports.rwanda = [
     "Sector_ID": "5213",
     "Distr_ID": "52",
     "Prov_ID": "5",
-    "Village": "Gatebe Ii",
+    "Village": "Gatebe II",
     "Cell": "Kirebe",
     "Sector": "RWIMIYAGA",
     "Province": "East/Iburasirazuba"
@@ -144774,7 +144774,7 @@ exports.rwanda = [
     "Sector_ID": "5213",
     "Distr_ID": "52",
     "Prov_ID": "5",
-    "Village": "Nyakagando Ii",
+    "Village": "Nyakagando II",
     "Cell": "Nyarupfubire",
     "Sector": "RWIMIYAGA",
     "Province": "East/Iburasirazuba"
@@ -144798,7 +144798,7 @@ exports.rwanda = [
     "Sector_ID": "5213",
     "Distr_ID": "52",
     "Prov_ID": "5",
-    "Village": "Nyarupfubire Ii",
+    "Village": "Nyarupfubire II",
     "Cell": "Nyarupfubire",
     "Sector": "RWIMIYAGA",
     "Province": "East/Iburasirazuba"
@@ -144822,7 +144822,7 @@ exports.rwanda = [
     "Sector_ID": "5213",
     "Distr_ID": "52",
     "Prov_ID": "5",
-    "Village": "Rwimiyaga Ii",
+    "Village": "Rwimiyaga II",
     "Cell": "Nyarupfubire",
     "Sector": "RWIMIYAGA",
     "Province": "East/Iburasirazuba"
@@ -144918,7 +144918,7 @@ exports.rwanda = [
     "Sector_ID": "5213",
     "Distr_ID": "52",
     "Prov_ID": "5",
-    "Village": "Gakagati Ii",
+    "Village": "Gakagati II",
     "Cell": "Rutungu",
     "Sector": "RWIMIYAGA",
     "Province": "East/Iburasirazuba"
@@ -145686,7 +145686,7 @@ exports.rwanda = [
     "Sector_ID": "5301",
     "Distr_ID": "53",
     "Prov_ID": "5",
-    "Village": "Gahara Ii",
+    "Village": "Gahara II",
     "Cell": "Viro",
     "Sector": "Gasange",
     "Province": "East/Iburasirazuba"
@@ -146958,7 +146958,7 @@ exports.rwanda = [
     "Sector_ID": "5304",
     "Distr_ID": "53",
     "Prov_ID": "5",
-    "Village": "Kabaroreii",
+    "Village": "KabaroreII",
     "Cell": "Kabarore",
     "Sector": "Kabarore",
     "Province": "East/Iburasirazuba"
@@ -147198,7 +147198,7 @@ exports.rwanda = [
     "Sector_ID": "5304",
     "Distr_ID": "53",
     "Prov_ID": "5",
-    "Village": "Kibondo Ii",
+    "Village": "Kibondo II",
     "Cell": "Simbwa",
     "Sector": "Kabarore",
     "Province": "East/Iburasirazuba"
@@ -149250,7 +149250,7 @@ exports.rwanda = [
     "Sector_ID": "5308",
     "Distr_ID": "53",
     "Prov_ID": "5",
-    "Village": "Cyoga Ii",
+    "Village": "Cyoga II",
     "Cell": "Taba",
     "Sector": "Muhura",
     "Province": "East/Iburasirazuba"
@@ -150726,7 +150726,7 @@ exports.rwanda = [
     "Sector_ID": "5311",
     "Distr_ID": "53",
     "Prov_ID": "5",
-    "Village": "Mpangare Ii",
+    "Village": "Mpangare II",
     "Cell": "Mayange",
     "Sector": "Nyagihanga",
     "Province": "East/Iburasirazuba"
@@ -151146,7 +151146,7 @@ exports.rwanda = [
     "Sector_ID": "5312",
     "Distr_ID": "53",
     "Prov_ID": "5",
-    "Village": "Akagarama Ii",
+    "Village": "Akagarama II",
     "Cell": "Bushobora",
     "Sector": "Remera",
     "Province": "East/Iburasirazuba"
@@ -151698,7 +151698,7 @@ exports.rwanda = [
     "Sector_ID": "5313",
     "Distr_ID": "53",
     "Prov_ID": "5",
-    "Village": "Gashenyi Ii",
+    "Village": "Gashenyi II",
     "Cell": "Gihuta",
     "Sector": "Rugarama",
     "Province": "East/Iburasirazuba"
@@ -151734,7 +151734,7 @@ exports.rwanda = [
     "Sector_ID": "5313",
     "Distr_ID": "53",
     "Prov_ID": "5",
-    "Village": "Ntende Ii",
+    "Village": "Ntende II",
     "Cell": "Gihuta",
     "Sector": "Rugarama",
     "Province": "East/Iburasirazuba"
@@ -151998,7 +151998,7 @@ exports.rwanda = [
     "Sector_ID": "5313",
     "Distr_ID": "53",
     "Prov_ID": "5",
-    "Village": "Gitsimba Ii",
+    "Village": "Gitsimba II",
     "Cell": "Matare",
     "Sector": "Rugarama",
     "Province": "East/Iburasirazuba"
@@ -152682,7 +152682,7 @@ exports.rwanda = [
     "Sector_ID": "5314",
     "Distr_ID": "53",
     "Prov_ID": "5",
-    "Village": "Ndama Ii",
+    "Village": "Ndama II",
     "Cell": "Rwikiniro",
     "Sector": "Rwimbogo",
     "Province": "East/Iburasirazuba"
@@ -152730,7 +152730,7 @@ exports.rwanda = [
     "Sector_ID": "5314",
     "Distr_ID": "53",
     "Prov_ID": "5",
-    "Village": "Rwikiniro Ii",
+    "Village": "Rwikiniro II",
     "Cell": "Rwikiniro",
     "Sector": "Rwimbogo",
     "Province": "East/Iburasirazuba"
@@ -153750,7 +153750,7 @@ exports.rwanda = [
     "Sector_ID": "5403",
     "Distr_ID": "54",
     "Prov_ID": "5",
-    "Village": "Nkuba Ii",
+    "Village": "Nkuba II",
     "Cell": "Cyabajwa",
     "Sector": "Kabarondo",
     "Province": "East/Iburasirazuba"
@@ -153906,7 +153906,7 @@ exports.rwanda = [
     "Sector_ID": "5410",
     "Distr_ID": "54",
     "Prov_ID": "5",
-    "Village": "Kinunga Ii",
+    "Village": "Kinunga II",
     "Cell": "Rukara",
     "Sector": "Rukara",
     "Province": "East/Iburasirazuba"
@@ -154086,7 +154086,7 @@ exports.rwanda = [
     "Sector_ID": "5412",
     "Distr_ID": "54",
     "Prov_ID": "5",
-    "Village": "Nyarwashama Ii",
+    "Village": "Nyarwashama II",
     "Cell": "Mukoyoyo",
     "Sector": "Rwinkwavu",
     "Province": "East/Iburasirazuba"
@@ -154182,7 +154182,7 @@ exports.rwanda = [
     "Sector_ID": "5501",
     "Distr_ID": "55",
     "Prov_ID": "5",
-    "Village": "Muguruka Ii",
+    "Village": "Muguruka II",
     "Cell": "Nyakagezi",
     "Sector": "Gahara",
     "Province": "East/Iburasirazuba"
@@ -154278,7 +154278,7 @@ exports.rwanda = [
     "Sector_ID": "5512",
     "Distr_ID": "55",
     "Prov_ID": "5",
-    "Village": "Nyarubuye Ii",
+    "Village": "Nyarubuye II",
     "Cell": "Nyarutunga",
     "Sector": "Nyarubuye",
     "Province": "East/Iburasirazuba"
@@ -154770,7 +154770,7 @@ exports.rwanda = [
     "Sector_ID": "5403",
     "Distr_ID": "54",
     "Prov_ID": "5",
-    "Village": "Nyabikenke Ii",
+    "Village": "Nyabikenke II",
     "Cell": "Kabura",
     "Sector": "Kabarondo",
     "Province": "East/Iburasirazuba"
@@ -155250,7 +155250,7 @@ exports.rwanda = [
     "Sector_ID": "5404",
     "Distr_ID": "54",
     "Prov_ID": "5",
-    "Village": "Karambo Ii",
+    "Village": "Karambo II",
     "Cell": "Rugendabari",
     "Sector": "Mukarange",
     "Province": "East/Iburasirazuba"
@@ -155814,7 +155814,7 @@ exports.rwanda = [
     "Sector_ID": "5406",
     "Distr_ID": "54",
     "Prov_ID": "5",
-    "Village": "Ngumeri Ii",
+    "Village": "Ngumeri II",
     "Cell": "Karambi",
     "Sector": "Murundi",
     "Province": "East/Iburasirazuba"
@@ -155922,7 +155922,7 @@ exports.rwanda = [
     "Sector_ID": "5406",
     "Distr_ID": "54",
     "Prov_ID": "5",
-    "Village": "Rwinsheke Ii",
+    "Village": "Rwinsheke II",
     "Cell": "Karambi",
     "Sector": "Murundi",
     "Province": "East/Iburasirazuba"
@@ -156126,7 +156126,7 @@ exports.rwanda = [
     "Sector_ID": "5406",
     "Distr_ID": "54",
     "Prov_ID": "5",
-    "Village": "Ryakirenzi Ii",
+    "Village": "Ryakirenzi II",
     "Cell": "Ryamanyoni",
     "Sector": "Murundi",
     "Province": "East/Iburasirazuba"
@@ -157002,7 +157002,7 @@ exports.rwanda = [
     "Sector_ID": "5409",
     "Distr_ID": "54",
     "Prov_ID": "5",
-    "Village": "Kabuya Ii",
+    "Village": "Kabuya II",
     "Cell": "Rurambi",
     "Sector": "Nyamirama",
     "Province": "East/Iburasirazuba"
@@ -157182,7 +157182,7 @@ exports.rwanda = [
     "Sector_ID": "5410",
     "Distr_ID": "54",
     "Prov_ID": "5",
-    "Village": "Butimba Ii",
+    "Village": "Butimba II",
     "Cell": "Kawangire",
     "Sector": "Rukara",
     "Province": "East/Iburasirazuba"
@@ -157350,7 +157350,7 @@ exports.rwanda = [
     "Sector_ID": "5410",
     "Distr_ID": "54",
     "Prov_ID": "5",
-    "Village": "Karambo Ii",
+    "Village": "Karambo II",
     "Cell": "Rukara",
     "Sector": "Rukara",
     "Province": "East/Iburasirazuba"
@@ -157374,7 +157374,7 @@ exports.rwanda = [
     "Sector_ID": "5410",
     "Distr_ID": "54",
     "Prov_ID": "5",
-    "Village": "Akabare Ii",
+    "Village": "Akabare II",
     "Cell": "Rwimishinya",
     "Sector": "Rukara",
     "Province": "East/Iburasirazuba"
@@ -157398,7 +157398,7 @@ exports.rwanda = [
     "Sector_ID": "5410",
     "Distr_ID": "54",
     "Prov_ID": "5",
-    "Village": "Karagari Ii",
+    "Village": "Karagari II",
     "Cell": "Rwimishinya",
     "Sector": "Rukara",
     "Province": "East/Iburasirazuba"
@@ -157422,7 +157422,7 @@ exports.rwanda = [
     "Sector_ID": "5410",
     "Distr_ID": "54",
     "Prov_ID": "5",
-    "Village": "Kigwene Ii",
+    "Village": "Kigwene II",
     "Cell": "Rwimishinya",
     "Sector": "Rukara",
     "Province": "East/Iburasirazuba"
@@ -157446,7 +157446,7 @@ exports.rwanda = [
     "Sector_ID": "5410",
     "Distr_ID": "54",
     "Prov_ID": "5",
-    "Village": "Kinunga Ii",
+    "Village": "Kinunga II",
     "Cell": "Rwimishinya",
     "Sector": "Rukara",
     "Province": "East/Iburasirazuba"
@@ -157470,7 +157470,7 @@ exports.rwanda = [
     "Sector_ID": "5410",
     "Distr_ID": "54",
     "Prov_ID": "5",
-    "Village": "Mirambi Ii",
+    "Village": "Mirambi II",
     "Cell": "Rwimishinya",
     "Sector": "Rukara",
     "Province": "East/Iburasirazuba"
@@ -157482,7 +157482,7 @@ exports.rwanda = [
     "Sector_ID": "5410",
     "Distr_ID": "54",
     "Prov_ID": "5",
-    "Village": "Mirambi Iii",
+    "Village": "Mirambi IIi",
     "Cell": "Rwimishinya",
     "Sector": "Rukara",
     "Province": "East/Iburasirazuba"
@@ -157506,7 +157506,7 @@ exports.rwanda = [
     "Sector_ID": "5410",
     "Distr_ID": "54",
     "Prov_ID": "5",
-    "Village": "Nyarutunga Ii",
+    "Village": "Nyarutunga II",
     "Cell": "Rwimishinya",
     "Sector": "Rukara",
     "Province": "East/Iburasirazuba"
@@ -158010,7 +158010,7 @@ exports.rwanda = [
     "Sector_ID": "5412",
     "Distr_ID": "54",
     "Prov_ID": "5",
-    "Village": "Mbarara Ii",
+    "Village": "Mbarara II",
     "Cell": "Mbarara",
     "Sector": "Rwinkwavu",
     "Province": "East/Iburasirazuba"
@@ -158202,7 +158202,7 @@ exports.rwanda = [
     "Sector_ID": "5412",
     "Distr_ID": "54",
     "Prov_ID": "5",
-    "Village": "Nkondo Ii",
+    "Village": "Nkondo II",
     "Cell": "Nkondo",
     "Sector": "Rwinkwavu",
     "Province": "East/Iburasirazuba"
@@ -158298,7 +158298,7 @@ exports.rwanda = [
     "Sector_ID": "5501",
     "Distr_ID": "55",
     "Prov_ID": "5",
-    "Village": "Cyasusa Ii",
+    "Village": "Cyasusa II",
     "Cell": "Butezi",
     "Sector": "Gahara",
     "Province": "East/Iburasirazuba"
@@ -158346,7 +158346,7 @@ exports.rwanda = [
     "Sector_ID": "5501",
     "Distr_ID": "55",
     "Prov_ID": "5",
-    "Village": "Kijumbura Ii",
+    "Village": "Kijumbura II",
     "Cell": "Butezi",
     "Sector": "Gahara",
     "Province": "East/Iburasirazuba"
@@ -158358,7 +158358,7 @@ exports.rwanda = [
     "Sector_ID": "5501",
     "Distr_ID": "55",
     "Prov_ID": "5",
-    "Village": "Kijumbura Iii",
+    "Village": "Kijumbura IIi",
     "Cell": "Butezi",
     "Sector": "Gahara",
     "Province": "East/Iburasirazuba"
@@ -158454,7 +158454,7 @@ exports.rwanda = [
     "Sector_ID": "5501",
     "Distr_ID": "55",
     "Prov_ID": "5",
-    "Village": "Umubano Ii",
+    "Village": "Umubano II",
     "Cell": "Butezi",
     "Sector": "Gahara",
     "Province": "East/Iburasirazuba"
@@ -158670,7 +158670,7 @@ exports.rwanda = [
     "Sector_ID": "5501",
     "Distr_ID": "55",
     "Prov_ID": "5",
-    "Village": "Murama Ii",
+    "Village": "Murama II",
     "Cell": "Murehe",
     "Sector": "Gahara",
     "Province": "East/Iburasirazuba"
@@ -158778,7 +158778,7 @@ exports.rwanda = [
     "Sector_ID": "5501",
     "Distr_ID": "55",
     "Prov_ID": "5",
-    "Village": "Cyabihama Ii",
+    "Village": "Cyabihama II",
     "Cell": "Nyagasenyi",
     "Sector": "Gahara",
     "Province": "East/Iburasirazuba"
@@ -158994,7 +158994,7 @@ exports.rwanda = [
     "Sector_ID": "5501",
     "Distr_ID": "55",
     "Prov_ID": "5",
-    "Village": "Kinyonzo Ii",
+    "Village": "Kinyonzo II",
     "Cell": "Rubimba",
     "Sector": "Gahara",
     "Province": "East/Iburasirazuba"
@@ -159078,7 +159078,7 @@ exports.rwanda = [
     "Sector_ID": "5501",
     "Distr_ID": "55",
     "Prov_ID": "5",
-    "Village": "Rwamaranga Ii",
+    "Village": "Rwamaranga II",
     "Cell": "Rubimba",
     "Sector": "Gahara",
     "Province": "East/Iburasirazuba"
@@ -159210,7 +159210,7 @@ exports.rwanda = [
     "Sector_ID": "5502",
     "Distr_ID": "55",
     "Prov_ID": "5",
-    "Village": "Cyunuzi Ii",
+    "Village": "Cyunuzi II",
     "Cell": "Cyunuzi",
     "Sector": "Gatore",
     "Province": "East/Iburasirazuba"
@@ -159450,7 +159450,7 @@ exports.rwanda = [
     "Sector_ID": "5502",
     "Distr_ID": "55",
     "Prov_ID": "5",
-    "Village": "Bitoma Ii",
+    "Village": "Bitoma II",
     "Cell": "Rwabutazi",
     "Sector": "Gatore",
     "Province": "East/Iburasirazuba"
@@ -159510,7 +159510,7 @@ exports.rwanda = [
     "Sector_ID": "5502",
     "Distr_ID": "55",
     "Prov_ID": "5",
-    "Village": "Ururembo Ii",
+    "Village": "Ururembo II",
     "Cell": "Rwabutazi",
     "Sector": "Gatore",
     "Province": "East/Iburasirazuba"
@@ -159678,7 +159678,7 @@ exports.rwanda = [
     "Sector_ID": "5503",
     "Distr_ID": "55",
     "Prov_ID": "5",
-    "Village": "Kabimba Ii",
+    "Village": "Kabimba II",
     "Cell": "Cyanya",
     "Sector": "Kigarama",
     "Province": "East/Iburasirazuba"
@@ -159738,7 +159738,7 @@ exports.rwanda = [
     "Sector_ID": "5503",
     "Distr_ID": "55",
     "Prov_ID": "5",
-    "Village": "Nyamirambo Ii",
+    "Village": "Nyamirambo II",
     "Cell": "Cyanya",
     "Sector": "Kigarama",
     "Province": "East/Iburasirazuba"
@@ -159906,7 +159906,7 @@ exports.rwanda = [
     "Sector_ID": "5503",
     "Distr_ID": "55",
     "Prov_ID": "5",
-    "Village": "Bweranka Ii",
+    "Village": "Bweranka II",
     "Cell": "Kiremera",
     "Sector": "Kigarama",
     "Province": "East/Iburasirazuba"
@@ -159990,7 +159990,7 @@ exports.rwanda = [
     "Sector_ID": "5503",
     "Distr_ID": "55",
     "Prov_ID": "5",
-    "Village": "Karenge Ii",
+    "Village": "Karenge II",
     "Cell": "Kiremera",
     "Sector": "Kigarama",
     "Province": "East/Iburasirazuba"
@@ -160638,7 +160638,7 @@ exports.rwanda = [
     "Sector_ID": "5504",
     "Distr_ID": "55",
     "Prov_ID": "5",
-    "Village": "Nyakarambi Ii",
+    "Village": "Nyakarambi II",
     "Cell": "Ruhanga",
     "Sector": "Kigina",
     "Province": "East/Iburasirazuba"
@@ -160698,7 +160698,7 @@ exports.rwanda = [
     "Sector_ID": "5504",
     "Distr_ID": "55",
     "Prov_ID": "5",
-    "Village": "Rwagasare Ii",
+    "Village": "Rwagasare II",
     "Cell": "Ruhanga",
     "Sector": "Kigina",
     "Province": "East/Iburasirazuba"
@@ -160794,7 +160794,7 @@ exports.rwanda = [
     "Sector_ID": "5504",
     "Distr_ID": "55",
     "Prov_ID": "5",
-    "Village": "Mugisenyi Ii",
+    "Village": "Mugisenyi II",
     "Cell": "Rwanteru",
     "Sector": "Kigina",
     "Province": "East/Iburasirazuba"
@@ -160842,7 +160842,7 @@ exports.rwanda = [
     "Sector_ID": "5504",
     "Distr_ID": "55",
     "Prov_ID": "5",
-    "Village": "Rwanteru Ii",
+    "Village": "Rwanteru II",
     "Cell": "Rwanteru",
     "Sector": "Kigina",
     "Province": "East/Iburasirazuba"
@@ -162066,7 +162066,7 @@ exports.rwanda = [
     "Sector_ID": "5507",
     "Distr_ID": "55",
     "Prov_ID": "5",
-    "Village": "Kabuye Ii",
+    "Village": "Kabuye II",
     "Cell": "Mpanga",
     "Sector": "Mpanga",
     "Province": "East/Iburasirazuba"
@@ -162114,7 +162114,7 @@ exports.rwanda = [
     "Sector_ID": "5507",
     "Distr_ID": "55",
     "Prov_ID": "5",
-    "Village": "Rurambi Ii",
+    "Village": "Rurambi II",
     "Cell": "Mpanga",
     "Sector": "Mpanga",
     "Province": "East/Iburasirazuba"
@@ -162186,7 +162186,7 @@ exports.rwanda = [
     "Sector_ID": "5507",
     "Distr_ID": "55",
     "Prov_ID": "5",
-    "Village": "Ngugu Ii",
+    "Village": "Ngugu II",
     "Cell": "Mushongi",
     "Sector": "Mpanga",
     "Province": "East/Iburasirazuba"
@@ -162222,7 +162222,7 @@ exports.rwanda = [
     "Sector_ID": "5507",
     "Distr_ID": "55",
     "Prov_ID": "5",
-    "Village": "Busasamana Ii",
+    "Village": "Busasamana II",
     "Cell": "Nasho",
     "Sector": "Mpanga",
     "Province": "East/Iburasirazuba"
@@ -162270,7 +162270,7 @@ exports.rwanda = [
     "Sector_ID": "5507",
     "Distr_ID": "55",
     "Prov_ID": "5",
-    "Village": "Nyabubare Ii",
+    "Village": "Nyabubare II",
     "Cell": "Nasho",
     "Sector": "Mpanga",
     "Province": "East/Iburasirazuba"
@@ -162294,7 +162294,7 @@ exports.rwanda = [
     "Sector_ID": "5507",
     "Distr_ID": "55",
     "Prov_ID": "5",
-    "Village": "Nyawera Ii",
+    "Village": "Nyawera II",
     "Cell": "Nasho",
     "Sector": "Mpanga",
     "Province": "East/Iburasirazuba"
@@ -162582,7 +162582,7 @@ exports.rwanda = [
     "Sector_ID": "5508",
     "Distr_ID": "55",
     "Prov_ID": "5",
-    "Village": "Nyakariba Ii",
+    "Village": "Nyakariba II",
     "Cell": "Gasarabwayi",
     "Sector": "Musaza",
     "Province": "East/Iburasirazuba"
@@ -162714,7 +162714,7 @@ exports.rwanda = [
     "Sector_ID": "5508",
     "Distr_ID": "55",
     "Prov_ID": "5",
-    "Village": "Rubuye Ii",
+    "Village": "Rubuye II",
     "Cell": "Kabuga",
     "Sector": "Musaza",
     "Province": "East/Iburasirazuba"
@@ -162858,7 +162858,7 @@ exports.rwanda = [
     "Sector_ID": "5508",
     "Distr_ID": "55",
     "Prov_ID": "5",
-    "Village": "Gatwe Ii",
+    "Village": "Gatwe II",
     "Cell": "Musaza",
     "Sector": "Musaza",
     "Province": "East/Iburasirazuba"
@@ -162882,7 +162882,7 @@ exports.rwanda = [
     "Sector_ID": "5508",
     "Distr_ID": "55",
     "Prov_ID": "5",
-    "Village": "Kanyinya Ii",
+    "Village": "Kanyinya II",
     "Cell": "Musaza",
     "Sector": "Musaza",
     "Province": "East/Iburasirazuba"
@@ -162942,7 +162942,7 @@ exports.rwanda = [
     "Sector_ID": "5508",
     "Distr_ID": "55",
     "Prov_ID": "5",
-    "Village": "Gacuba Ii",
+    "Village": "Gacuba II",
     "Cell": "Nganda",
     "Sector": "Musaza",
     "Province": "East/Iburasirazuba"
@@ -163014,7 +163014,7 @@ exports.rwanda = [
     "Sector_ID": "5508",
     "Distr_ID": "55",
     "Prov_ID": "5",
-    "Village": "Nganda Ville Ii",
+    "Village": "Nganda Ville II",
     "Cell": "Nganda",
     "Sector": "Musaza",
     "Province": "East/Iburasirazuba"
@@ -163902,7 +163902,7 @@ exports.rwanda = [
     "Sector_ID": "5510",
     "Distr_ID": "55",
     "Prov_ID": "5",
-    "Village": "Kagese Ii",
+    "Village": "Kagese II",
     "Cell": "Kagese",
     "Sector": "Nasho",
     "Province": "East/Iburasirazuba"
@@ -163998,7 +163998,7 @@ exports.rwanda = [
     "Sector_ID": "5510",
     "Distr_ID": "55",
     "Prov_ID": "5",
-    "Village": "Karenge Ii",
+    "Village": "Karenge II",
     "Cell": "Ntaruka",
     "Sector": "Nasho",
     "Province": "East/Iburasirazuba"
@@ -164094,7 +164094,7 @@ exports.rwanda = [
     "Sector_ID": "5510",
     "Distr_ID": "55",
     "Prov_ID": "5",
-    "Village": "Kabigembe Ii",
+    "Village": "Kabigembe II",
     "Cell": "Rubirizi",
     "Sector": "Nasho",
     "Province": "East/Iburasirazuba"
@@ -164178,7 +164178,7 @@ exports.rwanda = [
     "Sector_ID": "5510",
     "Distr_ID": "55",
     "Prov_ID": "5",
-    "Village": "Rwandarushya Ii",
+    "Village": "Rwandarushya II",
     "Cell": "Rubirizi",
     "Sector": "Nasho",
     "Province": "East/Iburasirazuba"
@@ -165162,7 +165162,7 @@ exports.rwanda = [
     "Sector_ID": "5512",
     "Distr_ID": "55",
     "Prov_ID": "5",
-    "Village": "Kaziba Ii",
+    "Village": "Kaziba II",
     "Cell": "Mareba",
     "Sector": "Nyarubuye",
     "Province": "East/Iburasirazuba"
@@ -165186,7 +165186,7 @@ exports.rwanda = [
     "Sector_ID": "5512",
     "Distr_ID": "55",
     "Prov_ID": "5",
-    "Village": "Nyacyonga Ii",
+    "Village": "Nyacyonga II",
     "Cell": "Mareba",
     "Sector": "Nyarubuye",
     "Province": "East/Iburasirazuba"
@@ -165222,7 +165222,7 @@ exports.rwanda = [
     "Sector_ID": "5512",
     "Distr_ID": "55",
     "Prov_ID": "5",
-    "Village": "Rurenge Ii",
+    "Village": "Rurenge II",
     "Cell": "Mareba",
     "Sector": "Nyarubuye",
     "Province": "East/Iburasirazuba"
@@ -165258,7 +165258,7 @@ exports.rwanda = [
     "Sector_ID": "5512",
     "Distr_ID": "55",
     "Prov_ID": "5",
-    "Village": "Kazizi Ii",
+    "Village": "Kazizi II",
     "Cell": "Nyabitare",
     "Sector": "Nyarubuye",
     "Province": "East/Iburasirazuba"
@@ -165450,7 +165450,7 @@ exports.rwanda = [
     "Sector_ID": "5601",
     "Distr_ID": "56",
     "Prov_ID": "5",
-    "Village": "Ruyema Ii",
+    "Village": "Ruyema II",
     "Cell": "Cyerwa",
     "Sector": "Gashanda",
     "Province": "East/Iburasirazuba"
@@ -166254,7 +166254,7 @@ exports.rwanda = [
     "Sector_ID": "5603",
     "Distr_ID": "56",
     "Prov_ID": "5",
-    "Village": "Gashekasheke Ii",
+    "Village": "Gashekasheke II",
     "Cell": "Nyamirambo",
     "Sector": "Karembo",
     "Province": "East/Iburasirazuba"
@@ -166314,7 +166314,7 @@ exports.rwanda = [
     "Sector_ID": "5603",
     "Distr_ID": "56",
     "Prov_ID": "5",
-    "Village": "Kivugangoma Ii",
+    "Village": "Kivugangoma II",
     "Cell": "Nyamirambo",
     "Sector": "Karembo",
     "Province": "East/Iburasirazuba"
@@ -168294,7 +168294,7 @@ exports.rwanda = [
     "Sector_ID": "5609",
     "Distr_ID": "56",
     "Prov_ID": "5",
-    "Village": "Munini Ii",
+    "Village": "Munini II",
     "Cell": "Bugera",
     "Sector": "Remera",
     "Province": "East/Iburasirazuba"
@@ -169194,7 +169194,7 @@ exports.rwanda = [
     "Sector_ID": "5611",
     "Distr_ID": "56",
     "Prov_ID": "5",
-    "Village": "Maswa Ii",
+    "Village": "Maswa II",
     "Cell": "Rubona",
     "Sector": "Rukumberi",
     "Province": "East/Iburasirazuba"
@@ -169218,7 +169218,7 @@ exports.rwanda = [
     "Sector_ID": "5611",
     "Distr_ID": "56",
     "Prov_ID": "5",
-    "Village": "Rugenda Ii",
+    "Village": "Rugenda II",
     "Cell": "Rubona",
     "Sector": "Rukumberi",
     "Province": "East/Iburasirazuba"
@@ -169278,7 +169278,7 @@ exports.rwanda = [
     "Sector_ID": "5611",
     "Distr_ID": "56",
     "Prov_ID": "5",
-    "Village": "Rwimpongo Ii",
+    "Village": "Rwimpongo II",
     "Cell": "Rwintashya",
     "Sector": "Rukumberi",
     "Province": "East/Iburasirazuba"
@@ -169830,7 +169830,7 @@ exports.rwanda = [
     "Sector_ID": "5613",
     "Distr_ID": "56",
     "Prov_ID": "5",
-    "Village": "Mabuga Ii",
+    "Village": "Mabuga II",
     "Cell": "Gafunzo",
     "Sector": "Sake",
     "Province": "East/Iburasirazuba"
@@ -171150,7 +171150,7 @@ exports.rwanda = [
     "Sector_ID": "5701",
     "Distr_ID": "57",
     "Prov_ID": "5",
-    "Village": "Kagasa Ii",
+    "Village": "Kagasa II",
     "Cell": "Ramiro",
     "Sector": "Gashora",
     "Province": "East/Iburasirazuba"
@@ -171174,7 +171174,7 @@ exports.rwanda = [
     "Sector_ID": "5701",
     "Distr_ID": "57",
     "Prov_ID": "5",
-    "Village": "Karusine Ii",
+    "Village": "Karusine II",
     "Cell": "Ramiro",
     "Sector": "Gashora",
     "Province": "East/Iburasirazuba"
@@ -171222,7 +171222,7 @@ exports.rwanda = [
     "Sector_ID": "5701",
     "Distr_ID": "57",
     "Prov_ID": "5",
-    "Village": "Rweru Ii",
+    "Village": "Rweru II",
     "Cell": "Ramiro",
     "Sector": "Gashora",
     "Province": "East/Iburasirazuba"
@@ -172242,7 +172242,7 @@ exports.rwanda = [
     "Sector_ID": "5703",
     "Distr_ID": "57",
     "Prov_ID": "5",
-    "Village": "Pamba Ii",
+    "Village": "Pamba II",
     "Cell": "Kampeka",
     "Sector": "Kamabuye",
     "Province": "East/Iburasirazuba"
@@ -172314,7 +172314,7 @@ exports.rwanda = [
     "Sector_ID": "5703",
     "Distr_ID": "57",
     "Prov_ID": "5",
-    "Village": "Ntungamo Ii",
+    "Village": "Ntungamo II",
     "Cell": "Nyakayaga",
     "Sector": "Kamabuye",
     "Province": "East/Iburasirazuba"
@@ -172362,7 +172362,7 @@ exports.rwanda = [
     "Sector_ID": "5703",
     "Distr_ID": "57",
     "Prov_ID": "5",
-    "Village": "Mububaya Ii",
+    "Village": "Mububaya II",
     "Cell": "Tunda",
     "Sector": "Kamabuye",
     "Province": "East/Iburasirazuba"
@@ -172434,7 +172434,7 @@ exports.rwanda = [
     "Sector_ID": "5703",
     "Distr_ID": "57",
     "Prov_ID": "5",
-    "Village": "Uwibiraro Ii",
+    "Village": "Uwibiraro II",
     "Cell": "Tunda",
     "Sector": "Kamabuye",
     "Province": "East/Iburasirazuba"
@@ -173250,7 +173250,7 @@ exports.rwanda = [
     "Sector_ID": "5705",
     "Distr_ID": "57",
     "Prov_ID": "5",
-    "Village": "Rwimikoni Ii",
+    "Village": "Rwimikoni II",
     "Cell": "Mbyo",
     "Sector": "Mayange",
     "Province": "East/Iburasirazuba"
@@ -174882,7 +174882,7 @@ exports.rwanda = [
     "Sector_ID": "5709",
     "Distr_ID": "57",
     "Prov_ID": "5",
-    "Village": "Kagoma Ii",
+    "Village": "Kagoma II",
     "Cell": "Kibungo",
     "Sector": "Ntarama",
     "Province": "East/Iburasirazuba"
@@ -175026,7 +175026,7 @@ exports.rwanda = [
     "Sector_ID": "5710",
     "Distr_ID": "57",
     "Prov_ID": "5",
-    "Village": "Nyarugati Ii",
+    "Village": "Nyarugati II",
     "Cell": "Kanazi",
     "Sector": "Nyamata",
     "Province": "East/Iburasirazuba"
@@ -175374,7 +175374,7 @@ exports.rwanda = [
     "Sector_ID": "5710",
     "Distr_ID": "57",
     "Prov_ID": "5",
-    "Village": "Gasenga Ii",
+    "Village": "Gasenga II",
     "Cell": "Nyamata y' Umujyi",
     "Sector": "Nyamata",
     "Province": "East/Iburasirazuba"
@@ -175398,7 +175398,7 @@ exports.rwanda = [
     "Sector_ID": "5710",
     "Distr_ID": "57",
     "Prov_ID": "5",
-    "Village": "Gatare Ii",
+    "Village": "Gatare II",
     "Cell": "Nyamata y' Umujyi",
     "Sector": "Nyamata",
     "Province": "East/Iburasirazuba"
@@ -175410,7 +175410,7 @@ exports.rwanda = [
     "Sector_ID": "5710",
     "Distr_ID": "57",
     "Prov_ID": "5",
-    "Village": "Gatare Iii",
+    "Village": "Gatare IIi",
     "Cell": "Nyamata y' Umujyi",
     "Sector": "Nyamata",
     "Province": "East/Iburasirazuba"
@@ -175446,7 +175446,7 @@ exports.rwanda = [
     "Sector_ID": "5710",
     "Distr_ID": "57",
     "Prov_ID": "5",
-    "Village": "Nyamata Ii",
+    "Village": "Nyamata II",
     "Cell": "Nyamata y' Umujyi",
     "Sector": "Nyamata",
     "Province": "East/Iburasirazuba"
@@ -175470,7 +175470,7 @@ exports.rwanda = [
     "Sector_ID": "5710",
     "Distr_ID": "57",
     "Prov_ID": "5",
-    "Village": "Rugarama Ii",
+    "Village": "Rugarama II",
     "Cell": "Nyamata y' Umujyi",
     "Sector": "Nyamata",
     "Province": "East/Iburasirazuba"
@@ -175482,7 +175482,7 @@ exports.rwanda = [
     "Sector_ID": "5710",
     "Distr_ID": "57",
     "Prov_ID": "5",
-    "Village": "Rugarama Iii",
+    "Village": "Rugarama IIi",
     "Cell": "Nyamata y' Umujyi",
     "Sector": "Nyamata",
     "Province": "East/Iburasirazuba"
@@ -175506,7 +175506,7 @@ exports.rwanda = [
     "Sector_ID": "5710",
     "Distr_ID": "57",
     "Prov_ID": "5",
-    "Village": "Rwakibirizi Ii",
+    "Village": "Rwakibirizi II",
     "Cell": "Nyamata y' Umujyi",
     "Sector": "Nyamata",
     "Province": "East/Iburasirazuba"
@@ -176694,7 +176694,7 @@ exports.rwanda = [
     "Sector_ID": "5713",
     "Distr_ID": "57",
     "Prov_ID": "5",
-    "Village": "Masenga Ii",
+    "Village": "Masenga II",
     "Cell": "Bihari",
     "Sector": "Ruhuha",
     "Province": "East/Iburasirazuba"
@@ -177066,7 +177066,7 @@ exports.rwanda = [
     "Sector_ID": "5713",
     "Distr_ID": "57",
     "Prov_ID": "5",
-    "Village": "Ruhuha Ii",
+    "Village": "Ruhuha II",
     "Cell": "Ruhuha",
     "Sector": "Ruhuha",
     "Province": "East/Iburasirazuba"
