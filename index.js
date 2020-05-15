@@ -13,10 +13,21 @@ const upperCase = (name) => {
   }
 }
 
+/**
+ *  @param {string} [province]
+ * @returns {array} placecodes
+ */
+
 exports.PlaceCodesByProvince = (province) => {
   return data["rwanda"].filter(place => place["Province"].includes(upperCase(province)))
 }
 
+
+/**
+ * @param {string} [province]
+ * @param {string} [district]
+ * @returns {array} placecodes
+ */
 exports.PlaceCodesByDistrict = (province, district) => {
   let districts = []
   data["rwanda"].forEach(location => {
@@ -28,6 +39,12 @@ exports.PlaceCodesByDistrict = (province, district) => {
   return districts
 }
 
+/**
+ * @param {string} [province]
+ * @param {string} [district]
+ * @param {string} [sector]
+ * @returns {array} placecodes
+ */
 exports.PlaceCodesBySector = (province, district, sector) => {
   let sectors = []
   data["rwanda"].forEach(location => {
@@ -40,7 +57,13 @@ exports.PlaceCodesBySector = (province, district, sector) => {
   return sectors
 }
 
-
+/**
+ * @param {string} [province]
+ * @param {string} [district]
+ * @param {string} [sector]
+ * @param {string} [cell]
+ * @returns {array} placecodes
+ */
 exports.PlaceCodesByCell = (province, district, sector, cell) => {
   let cells = []
   data["rwanda"].forEach(location => {
@@ -54,7 +77,14 @@ exports.PlaceCodesByCell = (province, district, sector, cell) => {
   return cells
 }
 
-
+/**
+ * @param {string} [province]
+ * @param {string} [district]
+ * @param {string} [sector]
+ * @param {string} [cell]
+ * @param {string} [village]
+ * @returns {array} placecodes
+ */
 exports.PlaceCodesByVillage = (province, district, sector, cell, village) => {
   let villages = []
   data["rwanda"].forEach(location => {
@@ -69,14 +99,18 @@ exports.PlaceCodesByVillage = (province, district, sector, cell, village) => {
   return villages
 }
 
+/**
+ * @param {string} [code]
+ * @returns {array} placecodes
+ */
 exports.PlaceCodesByCode = (code) => {
   let place = []
   data["rwanda"].forEach(location => {
-    if (location["Prov_ID"] == code
-      || location["Distr_ID"] == code
-      || location["Sector_ID"] == code
-      || location["Cell_ID"] == code
-      || location["Village_ID"] == code) {
+    if (location["Prov_CODE"] == code
+      || location["Distr_CODE"] == code
+      || location["Sector_CODE"] == code
+      || location["Cell_CODE"] == code
+      || location["Village_CODE"] == code) {
       place.push(location)
     }
   })
