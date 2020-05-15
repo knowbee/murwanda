@@ -1,4 +1,4 @@
-const data = require("./lib/data")
+const data = require("./lib/data/data.min.js")
 
 const upperCase = (name) => {
   if (name && name.includes(" ")) {
