@@ -1,0 +1,37 @@
+{
+  "name": "murwanda",
+  "description": "Find places by their code, province, district, sector, village or cell name from Rwanda",
+  "version": "2.0.8",
+  "main": "index.js",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/knowbee/murwanda.git"
+  },
+  "scripts": {
+    "lint": "eslint .",
+    "coverage": "nyc report --reporter=text-lcov | coveralls",
+    "test": "mocha ./test/* --exit",
+    "fix-lint": "eslint . --fix"
+  },
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "coveralls": "^3.0.11",
+    "eslint": "^6.8.0",
+    "eslint-config-airbnb-base": "^14.1.0",
+    "eslint-plugin-import": "^2.20.2",
+    "mocha": "^7.1.1",
+    "nyc": "^15.0.0"
+  },
+  "keywords": [
+    "code",
+    "rwanda",
+    "urwanda",
+    "intara",
+    "u rwanda",
+    "imirenge",
+    "utugari"
+  ],
+  "author": "Igwaneza Bruce <knowbeeinc@gmail.com>",
+  "homepage": "https://github.com/knowbee/murwanda"
+}
