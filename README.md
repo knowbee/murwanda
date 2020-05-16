@@ -29,19 +29,19 @@ yarn add murwanda
 const { PlaceCodesByProvince, PlaceCodesByCode } = require("murwanda");
 
 console.log(PlaceCodesByProvince("South"));
-console.log(PlaceCodesByCode("12130307")) // 12130307 : village code
+console.log(PlaceCodesByCode("102130307")) // 12130307 : village code
 // [
-//   {
-//     District: 'Gasabo',
-//     Village_ID: '12130307',
-//     Cell_ID: '121303',
-//     Sector_ID: '1213',
-//     Distr_ID: '12',
-//     Prov_ID: '1',
-//     Village: 'Urumuri',
-//     Cell: 'Rukiri I',
-//     Sector: 'Remera',
-//     Province: 'Kigali Town/Umujyi wa Kigali'
+// {
+//     province_code: '1',
+//     province_name: 'Kigali City',
+//     district_code: '102',
+//     district_name: 'Gasabo',
+//     sector_code: '010213',
+//     sector_name: 'Remera',
+//     cell_code: '1021303',
+//     cell_name: 'Rukiri I',
+//     village_code: '102130307',
+//     village_name: 'Urumuri'
 //   }
 // ]
 
