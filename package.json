@@ -1,7 +1,7 @@
 {
   "name": "murwanda",
   "description": "Find places by their code, province, district, sector, village or cell name from Rwanda",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "main": "index.js",
   "license": "MIT",
   "repository": {
