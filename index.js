@@ -1,18 +1,7 @@
-const data = require("./lib/data/data.min.js")
+const data = require("./lib/data/rwanda.min.json")
 
-
-
-const upperCase = (name) => {
-  if (name && name.includes(" ")) {
-    newName = name.split(" ");
-    return `${newName[0].charAt(0).toUpperCase()}${newName[0]
-      .substring(1)
-      .toLowerCase()} ${newName[1]}`;
-  } else {
-    return name && name.length > 2
-      ? `${name.charAt(0).toUpperCase()}${name.substring(1).toLowerCase()}`
-      : undefined;
-  }
+const normalized = (name) => {
+  return name.toLowerCase()
 }
 
 /**
@@ -21,7 +10,7 @@ const upperCase = (name) => {
  */
 
 exports.PlaceCodesByProvince = (province) => {
-  return data["rwanda"].filter(place => place["Province"].includes(upperCase(province)))
+  return data.filter(place => normalized(place["province_name"]).includes(normalized(province)))
 }
 
 
@@ -32,9 +21,9 @@ exports.PlaceCodesByProvince = (province) => {
  */
 exports.PlaceCodesByDistrict = (province, district) => {
   let districts = []
-  data["rwanda"].forEach(location => {
-    if (location["Province"].includes(upperCase(province))
-      && location["District"] == upperCase(district)) {
+  data.forEach(location => {
+    if (normalized(location["province_name"]).includes(normalized(province))
+      && normalized(location["district_name"]) == normalized(district)) {
       districts.push(location)
     }
   })
@@ -49,10 +38,10 @@ exports.PlaceCodesByDistrict = (province, district) => {
  */
 exports.PlaceCodesBySector = (province, district, sector) => {
   let sectors = []
-  data["rwanda"].forEach(location => {
-    if (location["Province"].includes(upperCase(province))
-      && location["District"] == upperCase(district)
-      && location["Sector"] == upperCase(sector)) {
+  data.forEach(location => {
+    if (normalized(location["province_name"]).includes(normalized(province))
+      && normalized(location["district_name"]) == normalized(district)
+      && normalized(location["sector_name"]) == normalized(sector)) {
       sectors.push(location)
     }
   })
@@ -68,11 +57,11 @@ exports.PlaceCodesBySector = (province, district, sector) => {
  */
 exports.PlaceCodesByCell = (province, district, sector, cell) => {
   let cells = []
-  data["rwanda"].forEach(location => {
-    if (location["Province"].includes(upperCase(province))
-      && location["District"] == upperCase(district)
-      && location["Sector"] == upperCase(sector)
-      && location["Cell"] == upperCase(cell)) {
+  data.forEach(location => {
+    if (normalized(location["province_name"]).includes(normalized(province))
+    && normalized(location["district_name"]) == normalized(district)
+    && normalized(location["sector_name"]) == normalized(sector)
+      && normalized(location["cell_name"]) == normalized(cell)) {
       cells.push(location)
     }
   })
@@ -89,12 +78,12 @@ exports.PlaceCodesByCell = (province, district, sector, cell) => {
  */
 exports.PlaceCodesByVillage = (province, district, sector, cell, village) => {
   let villages = []
-  data["rwanda"].forEach(location => {
-    if (location["Province"].includes(upperCase(province))
-      && location["District"] == upperCase(district)
-      && location["Sector"] == upperCase(sector)
-      && location["Cell"] == upperCase(cell)
-      && location["Village"] == upperCase(village)) {
+  data.forEach(location => {
+    if (normalized(location["province_name"]).includes(normalized(province))
+    && normalized(location["district_name"]) == normalized(district)
+    && normalized(location["sector_name"]) == normalized(sector)
+      && normalized(location["cell_name"]) == normalized(cell)
+      && normalized(location["village_name"]) == normalized(village)) {
       villages.push(location)
     }
   })
@@ -107,12 +96,12 @@ exports.PlaceCodesByVillage = (province, district, sector, cell, village) => {
  */
 exports.PlaceCodesByCode = (code) => {
   let place = []
-  data["rwanda"].forEach(location => {
-    if (location["Prov_CODE"] == code
-      || location["Distr_CODE"] == code
-      || location["Sector_CODE"] == code
-      || location["Cell_CODE"] == code
-      || location["Village_CODE"] == code) {
+  data.forEach(location => {
+    if (location["province_code"] == code
+      || location["district_code"] == code
+      || location["sector_code"] == code
+      || location["cell_code"] == code
+      || location["village_code"] == code) {
       place.push(location)
     }
   })
