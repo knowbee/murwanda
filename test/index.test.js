@@ -67,11 +67,11 @@ describe("Murwanda", async () => {
 
   describe("getting place codes by code", () => {
     it("should return array of place codes from the given code", function () {
-      const placesbycode = PlaceCodesByCode("12130307");
+      const placesbycode = PlaceCodesByCode("102130307");
       expect(typeof (placesbycode)).to.equal("object");
     });
-    it("should return length of places by code of 12130307 to equal 1", function () {
-      const placesbycode = PlaceCodesByCode("12130307");
+    it("should return length of places by code of 507150505 to equal 1", function () {
+      const placesbycode = PlaceCodesByCode("507150505");
       const length = placesbycode.length;
       expect(length).to.equal(1);
     });
