@@ -1,6 +1,7 @@
 # murwanda
 
 [![Build Status](https://travis-ci.com/knowbee/murwanda.svg?token=yN9jXnk59suszMqNsJJb&branch=master)](https://travis-ci.com/knowbee/murwanda)
+[![npm](https://img.shields.io/npm/dt/murwanda.svg)](https://www.npmjs.com/package/murwanda)
 [![Dependency Status](https://david-dm.org/knowbee/murwanda.svg)](https://david-dm.org/knowbee/murwanda)
 [![npm](https://img.shields.io/npm/v/murwanda.svg)](https://www.npmjs.com/package/murwanda)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
