@@ -29,7 +29,7 @@ yarn add murwanda
 const { PlaceCodesByProvince, PlaceCodesByCode } = require("murwanda");
 
 console.log(PlaceCodesByProvince("South"));
-console.log(PlaceCodesByCode("102130307")) // 12130307 : village code
+console.log(PlaceCodesByCode("102130307")) // 102130307 : village code
 // [
 // {
 //     province_code: '1',
